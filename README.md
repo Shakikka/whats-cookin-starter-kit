@@ -56,5 +56,5 @@ Mobile View:
 )
 
 ## Contributing
-* Anneke Miers (https://github.com/aemiers)
-* Joel Thomas (https://github.com/Shakikka)
+* [Anneke Miers](https://github.com/aemiers)
+* [Joel Thomas](https://github.com/Shakikka)
